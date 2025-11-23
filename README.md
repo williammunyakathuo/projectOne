@@ -13,7 +13,7 @@ Building real things from scratch
 
 I want to become a confident full stack developer. This repository will track my journey from day one as I learn, improve and expand my abilities.
 
-I am grateful to FreeCodeCamp.org for providing high quality learning resources. I am currently following their tutorial titled Become a Fullstack Developer from Scratch Full Beginner’s Tutorial.
+I am grateful to FreeCodeCamp.org and @Scrimba for providing high quality learning resources. I am currently following their tutorial titled Become a Fullstack Developer from Scratch Full Beginner’s Tutorial.
 Through this guided path, I will build hireable skills in the JavaScript ecosystem, including
 
 HTML
